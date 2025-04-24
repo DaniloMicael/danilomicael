@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Danilo Micael Silva
+# 👋 Hello! I'm Danilo Silva
 
 Informatics Engineering student at the [University of Aveiro](https://www.ua.pt/), passionate about building scalable and intelligent systems to solve real-world challenges. Currently working on AI-driven smart city solutions and real-time performance tracking platforms.
 
